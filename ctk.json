@@ -1,0 +1,566 @@
+{
+    "calendar": [
+        {
+            "year": 2026,
+            "months": [
+                {
+                    "month": 11,
+                    "events": [
+                        {
+                            "day": 3,
+                            "day_events": [
+                                {
+                                    "game": "Lorcana",
+                                    "startHour": "17:00h",
+                                    "modality": "",
+                                    "imageResName": "lorcana_bg",
+                                    "description": "Torneo de Lorcana.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Dragon Ball Masters",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "dragonball_bg",
+                                    "description": "Torneo de Dragon Ball Masters.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 4,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Pauper",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Pauper.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Dragon Ball Fusion",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "dragonball_fusion_bg",
+                                    "description": "Torneo de Dragon Ball Fusion.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 5,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Premodern",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Premodern.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Gundam",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "gundam_bg",
+                                    "description": "Torneo de Gundam.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 6,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Standard",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Standard.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Digimon",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "digimon_bg",
+                                    "description": "Torneo de Digimon TCG.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 7,
+                            "day_events": [
+                                {
+                                    "game": "Pokémon",
+                                    "startHour": "11:00h",
+                                    "modality": "Standard",
+                                    "imageResName": "pokemon_bg",
+                                    "description": "Torneo de Pokémon TCG en formato Standard.",
+                                    "price": "6€",
+                                    "registrationInterval": "10:30h - 10:55h"
+                                },
+                                {
+                                    "game": "One Piece",
+                                    "startHour": "17:00h",
+                                    "modality": "",
+                                    "imageResName": "onepiece_bg",
+                                    "description": "Torneo de One Piece Card Game.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Star Wars Unlimited",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "starwars_bg",
+                                    "description": "Torneo de Star Wars Unlimited.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 8,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Modern",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Modern.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 10,
+                            "day_events": [
+                                {
+                                    "game": "Lorcana",
+                                    "startHour": "17:00h",
+                                    "modality": "",
+                                    "imageResName": "lorcana_bg",
+                                    "description": "Torneo de Lorcana.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Dragon Ball Masters",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "dragonball_bg",
+                                    "description": "Torneo de Dragon Ball Masters.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 11,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Pauper",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Pauper.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Dragon Ball Fusion",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "dragonball_fusion_bg",
+                                    "description": "Torneo de Dragon Ball Fusion.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 12,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Premodern",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Premodern.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Gundam",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "gundam_bg",
+                                    "description": "Torneo de Gundam.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 13,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Standard",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Standard.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Digimon",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "digimon_bg",
+                                    "description": "Torneo de Digimon TCG.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 14,
+                            "day_events": [
+                                {
+                                    "game": "Pokémon",
+                                    "startHour": "11:00h",
+                                    "modality": "Standard",
+                                    "imageResName": "pokemon_bg",
+                                    "description": "Torneo de Pokémon TCG en formato Standard.",
+                                    "price": "6€",
+                                    "registrationInterval": "10:30h - 10:55h"
+                                },
+                                {
+                                    "game": "One Piece",
+                                    "startHour": "17:00h",
+                                    "modality": "",
+                                    "imageResName": "onepiece_bg",
+                                    "description": "Torneo de One Piece Card Game.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Star Wars Unlimited",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "starwars_bg",
+                                    "description": "Torneo de Star Wars Unlimited.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 15,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Modern",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Modern.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 17,
+                            "day_events": [
+                                {
+                                    "game": "Lorcana",
+                                    "startHour": "17:00h",
+                                    "modality": "",
+                                    "imageResName": "lorcana_bg",
+                                    "description": "Torneo de Lorcana.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Dragon Ball Masters",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "dragonball_bg",
+                                    "description": "Torneo de Dragon Ball Masters.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 18,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Pauper",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Pauper.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Dragon Ball Fusion",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "dragonball_fusion_bg",
+                                    "description": "Torneo de Dragon Ball Fusion.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 19,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Premodern",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Premodern.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Gundam",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "gundam_bg",
+                                    "description": "Torneo de Gundam.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 20,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Standard",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Standard.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Digimon",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "digimon_bg",
+                                    "description": "Torneo de Digimon TCG.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 21,
+                            "day_events": [
+                                {
+                                    "game": "Pokémon",
+                                    "startHour": "11:00h",
+                                    "modality": "Standard",
+                                    "imageResName": "pokemon_bg",
+                                    "description": "Torneo de Pokémon TCG en formato Standard.",
+                                    "price": "6€",
+                                    "registrationInterval": "10:30h - 10:55h"
+                                },
+                                {
+                                    "game": "One Piece",
+                                    "startHour": "17:00h",
+                                    "modality": "",
+                                    "imageResName": "onepiece_bg",
+                                    "description": "Torneo de One Piece Card Game.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Star Wars Unlimited",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "starwars_bg",
+                                    "description": "Torneo de Star Wars Unlimited.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 22,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Modern",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Modern.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 24,
+                            "day_events": [
+                                {
+                                    "game": "Lorcana",
+                                    "startHour": "17:00h",
+                                    "modality": "",
+                                    "imageResName": "lorcana_bg",
+                                    "description": "Torneo de Lorcana.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Dragon Ball Masters",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "dragonball_bg",
+                                    "description": "Torneo de Dragon Ball Masters.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 25,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Pauper",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Pauper.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Dragon Ball Fusion",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "dragonball_fusion_bg",
+                                    "description": "Torneo de Dragon Ball Fusion.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 26,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Premodern",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Premodern.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Gundam",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "gundam_bg",
+                                    "description": "Torneo de Gundam.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 27,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Standard",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Standard.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Digimon",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "digimon_bg",
+                                    "description": "Torneo de Digimon TCG.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 28,
+                            "day_events": [
+                                {
+                                    "game": "Pokémon",
+                                    "startHour": "11:00h",
+                                    "modality": "Standard",
+                                    "imageResName": "pokemon_bg",
+                                    "description": "Torneo de Pokémon TCG en formato Standard.",
+                                    "price": "6€",
+                                    "registrationInterval": "10:30h - 10:55h"
+                                },
+                                {
+                                    "game": "One Piece",
+                                    "startHour": "17:00h",
+                                    "modality": "",
+                                    "imageResName": "onepiece_bg",
+                                    "description": "Torneo de One Piece Card Game.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                },
+                                {
+                                    "game": "Star Wars Unlimited",
+                                    "startHour": "17:15h",
+                                    "modality": "",
+                                    "imageResName": "starwars_bg",
+                                    "description": "Torneo de Star Wars Unlimited.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:45h - 17:10h"
+                                }
+                            ]
+                        },
+                        {
+                            "day": 29,
+                            "day_events": [
+                                {
+                                    "game": "MTG",
+                                    "startHour": "17:00h",
+                                    "modality": "Modern",
+                                    "imageResName": "mtg_bg",
+                                    "description": "Torneo de Magic: The Gathering en formato Modern.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
