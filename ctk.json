@@ -106,7 +106,7 @@
                                     "startHour": "11:00h",
                                     "modality": "Standard",
                                     "imageResName": "pokemon_bg",
-                                    "description": "Torneo de Pokémon TCG en formato Standard.",
+                                    "description": "Primera jornada de Pokémon TCG en formato Standard.",
                                     "price": "6€",
                                     "registrationInterval": "10:30h - 10:55h"
                                 },
