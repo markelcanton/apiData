@@ -167,12 +167,12 @@
                                 },
                                 {
                                     "game": "EventTemplate",
-                                    "startHour": "19:27h",
+                                    "startHour": "19:40h",
                                     "modality": "",
-                                    "imageResName": "lorcana_bg",
+                                    "imageResName": "",
                                     "description": "TemplateTournament.",
-                                    "price": "5,00 €",
-                                    "registrationInterval": "16:30h - 16:55h"
+                                    "price": "",
+                                    "registrationInterval": ""
                                 }
                             ]
                         },
