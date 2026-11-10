@@ -1,5 +1,11 @@
 {
     "notifications": [
-        
+        {
+            "id": 2,
+            "title": "Versión 26.112b (Beta)",
+            "briefDescription": "Se ha actualizado la aplicación. Pulsa para ver detalles.",
+            "fullDescription": "- Se han abierto las inscripciones para el próximo evento.\n- Revisa los horarios y modalidades en la sección de eventos.",
+            "scheduledTime": "2026-11-10T20:53:00Z"
+        }
     ]
 }
