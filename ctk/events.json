@@ -164,6 +164,15 @@
                                     "description": "Torneo de Dragon Ball Masters.",
                                     "price": "5,00 €",
                                     "registrationInterval": "16:45h - 17:10h"
+                                },
+                                {
+                                    "game": "EventTemplate",
+                                    "startHour": "19:27h",
+                                    "modality": "",
+                                    "imageResName": "lorcana_bg",
+                                    "description": "TemplateTournament.",
+                                    "price": "5,00 €",
+                                    "registrationInterval": "16:30h - 16:55h"
                                 }
                             ]
                         },
