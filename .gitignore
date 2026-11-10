@@ -2,3 +2,7 @@
 
 # Omit directories
 templates/
+ctd/
+
+# Omit files
+ctk/notifications.json

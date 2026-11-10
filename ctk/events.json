@@ -168,29 +168,6 @@
                             ]
                         },
                         {
-                            "day": 11,
-                            "day_events": [
-                                {
-                                    "game": "MTG",
-                                    "startHour": "17:00h",
-                                    "modality": "Pauper",
-                                    "imageResName": "mtg_bg",
-                                    "description": "Torneo de Magic: The Gathering en formato Pauper.",
-                                    "price": "5,00 €",
-                                    "registrationInterval": "16:30h - 16:55h"
-                                },
-                                {
-                                    "game": "Dragon Ball Fusion",
-                                    "startHour": "17:15h",
-                                    "modality": "",
-                                    "imageResName": "dragonball_fusion_bg",
-                                    "description": "Torneo de Dragon Ball Fusion.",
-                                    "price": "5,00 €",
-                                    "registrationInterval": "16:45h - 17:10h"
-                                }
-                            ]
-                        },
-                        {
                             "day": 12,
                             "day_events": [
                                 {
