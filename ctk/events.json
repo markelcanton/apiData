@@ -167,12 +167,12 @@
                                 },
                                 {
                                     "game": "EventTemplate",
-                                    "startHour": "19:40h",
-                                    "modality": "",
-                                    "imageResName": "",
+                                    "startHour": "21:15h",
+                                    "modality": "Standard",
+                                    "imageResName": "EventTemplate",
                                     "description": "TemplateTournament.",
-                                    "price": "",
-                                    "registrationInterval": ""
+                                    "price": "5€",
+                                    "registrationInterval": "21:10h"
                                 }
                             ]
                         },
