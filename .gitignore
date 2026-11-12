@@ -2,6 +2,5 @@
 
 # Omit directories
 templates/
-ctd/
 
 # Omit files
