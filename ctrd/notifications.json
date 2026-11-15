@@ -1,0 +1,10 @@
+{
+    "notifications": [
+        {
+            "id": "notif_1",
+            "title": "¡Comienza el evento!",
+            "description": "Las puertas ya están abiertas.",
+            "isoTime": "2026-11-20T10:00:00"
+        }
+    ]
+}

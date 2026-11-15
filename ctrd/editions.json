@@ -1,0 +1,24 @@
+{
+    "editions": [
+        {
+            "editionName": 1,
+            "posts": [
+                "https://www.instagram.com/p/C-example1/",
+                "https://www.instagram.com/p/C-example2/"
+            ]
+        },
+        {
+            "editionName": 2,
+            "posts": [
+                "https://www.instagram.com/p/C-example3/"
+            ]
+        },
+        {
+            "editionName": 3,
+            "posts": [
+                "https://www.instagram.com/p/C-example4/",
+                "https://www.instagram.com/p/C-example5/"
+            ]
+        }
+    ]
+}
