@@ -2,9 +2,9 @@
     "notifications": [
         {
             "id": "notif_1",
-            "title": "¡Comienza el evento!",
-            "description": "Las puertas ya están abiertas.",
-            "isoTime": "2026-11-20T10:00:00"
+            "title": "¡Solo queda 1 mes!",
+            "description": "Falta exactamente 1 mes y 1 día para que Tradeitto 2 empiece.",
+            "isoTime": "2026-11-17T13:05:00"
         }
     ]
 }
