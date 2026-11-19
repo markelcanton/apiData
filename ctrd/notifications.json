@@ -4,7 +4,19 @@
             "id": "notif_1",
             "title": "¡Ya queda menos de 1 mes!",
             "description": "Solo menos de 1 mes para que Tradeitto 2 empiece. ¿Nervioso?",
-            "isoTime": "2026-11-20T00:55:00"
+            "isoTime": "2026-11-20T00:57:00"
+        },
+        {
+            "id": "notif_2",
+            "title": "¡Faltan 2 semanas!",
+            "description": "Ya queda muy poco, solo 14 días más para que Tradeitto 2 empiece.",
+            "isoTime": "2026-12-05T10:00:00"
+        },
+        {
+            "id": "notif_t2_1",
+            "title": "¡Adelante VIPs!",
+            "description": "¡Tradeitto 2 ha comenzado! Damos la bienvenida a los VIPs.",
+            "isoTime": "2026-12-19T09:00:00"
         }
     ]
 }
