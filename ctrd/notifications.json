@@ -1,19 +1,19 @@
 {
     "notifications": [
         {
-            "id": "notif_1",
+            "id": "notif_vendedor1",
             "title": "Vendedor confirmado",
             "description": "Friki de Nacimiento estará en Tradeitto 2. ¿Te lo vas a perder?",
-            "isoTime": "2026-11-20T21:15:00"
+            "isoTime": "2026-11-20T23:00:00"
         },
         {
-            "id": "notif_2",
+            "id": "notif_contentcreator",
             "title": "¿Eres creador de contenido?",
             "description": "¿Y vas a venir a Tradeitto 2? Entonces, mándanos un MD por Instagram. :)",
-            "isoTime": "2026-11-20T21:20:00"
+            "isoTime": "2026-11-20T23:05:00"
         },
         {
-            "id": "notif_3",
+            "id": "notif_2sem",
             "title": "¡Faltan 2 semanas!",
             "description": "Ya queda muy poco, solo 14 días más para que Tradeitto 2 empiece.",
             "isoTime": "2026-12-05T10:00:00"
