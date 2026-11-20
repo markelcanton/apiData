@@ -5,3 +5,4 @@ templates/
 
 # Omit files
 index.html
+mapsHub/data.json
