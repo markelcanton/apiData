@@ -13,10 +13,64 @@
             "isoTime": "2026-12-05T10:00:00"
         },
         {
+            "id": "notif_3",
+            "title": "Vendedor confirmado",
+            "description": "Friki de Nacimiento estará en Tradeitto 2. ¿Te lo vas a perder?",
+            "isoTime": "2026-11-20T21:15:00"
+        },
+        {
+            "id": "notif_4",
+            "title": "¿Eres creador de contenido?",
+            "description": "¿Y vas a venir a Tradeitto 2? Entonces, mándanos un MD por Instagram. :)",
+            "isoTime": "2026-11-20T21:20:00"
+        },
+        {
             "id": "notif_t2_1",
             "title": "¡Adelante VIPs!",
             "description": "¡Tradeitto 2 ha comenzado! Damos la bienvenida a los VIPs.",
             "isoTime": "2026-12-19T09:00:00"
+        },
+        {
+            "id": "notif_t2_2",
+            "title": "¡Llegó el momento!",
+            "description": "¡Tradeitto 2 ha comenzado para todos! Es hora de disfrutar de una segunda edición más grande y el doble de mejor.",
+            "isoTime": "2026-12-19T10:00:00"
+        },
+        {
+            "id": "notif_t2_3",
+            "title": "¡Comienza el torneo!",
+            "description": "Llamando a todos los entrenadores con entrada al torneo, ¿quién se hará con la victoria?",
+            "isoTime": "2026-12-19T11:00:00"
+        },
+        {
+            "id": "notif_t2_4",
+            "title": "Megasorteo en directo",
+            "description": "Revisa el Pokémon de tu entrada y atento al ganador. ¡El lote puede ser tuyo!",
+            "isoTime": "2026-12-19T12:00:00"
+        },
+        {
+            "id": "notif_t2_5",
+            "title": "Concurso de preguntas",
+            "description": "¿Cuánto sabes de Pokémon? Anímate a responder y llévate un sobre de regalo por acertar.",
+            "isoTime": "2026-12-19T16:00:00"
+        },
+        {
+            "id": "notif_t2_6",
+            "title": "La hora del intercambio",
+            "description": "Una hora dedicada a intercambiar cartas entre todos (patrocinado por PokeDoc).",
+            "isoTime": "2026-12-19T17:00:00"
+        },
+        {
+            "id": "notif_t2_7",
+            "title": "Gran apertura final",
+            "description": "Vamos a cerrar esta edición abriendo sobres y algo más entre todos los asistentes. ¡Anímate a subir y a ver qué sale!",
+            "isoTime": "2026-12-19T18:00:00"
+        },
+        {
+            "id": "notif_t2_8",
+            "title": "¡Y así finaliza Tradeitto 2!",
+            "description": "¡Tradeitto 2 ha finalizado, gracias por asistir!",
+            "isoTime": "2026-12-19T19:00:00"
         }
     ]
 }
