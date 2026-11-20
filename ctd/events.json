@@ -4367,17 +4367,6 @@
                             "day": 21,
                             "day_events": [
                                 {
-                                    "game": "TRIAL EVENT",
-                                    "startHour": "18:10h",
-                                    "modality": "Testing",
-                                    "storeLocation": "Sani",
-                                    "imageResName": "",
-                                    "description": "SOLO TESTING (NO OFICIAL)",
-                                    "price": "",
-                                    "registrationInterval": "",
-                                    "buyTicket": ""
-                                },
-                                {
                                     "game": "MTG PAUPER",
                                     "startHour": "10:30h",
                                     "modality": "Pauper",
