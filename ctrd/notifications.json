@@ -7,10 +7,10 @@
             "isoTime": "2026-11-20T23:00:00"
         },
         {
-            "id": "notif_vendedor2",
+            "id": "notif_vendedor2a",
             "title": "Vendedor confirmado",
             "description": "MonarkaTCG estará en Tradeitto 2. ¿Te lo vas a perder?",
-            "isoTime": "2026-11-21T00:11:00"
+            "isoTime": "2026-11-21T00:21:00"
         },
         {
             "id": "notif_contentcreator",
