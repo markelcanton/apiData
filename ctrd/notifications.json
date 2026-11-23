@@ -13,6 +13,18 @@
             "isoTime": "2026-11-21T00:21:00"
         },
         {
+            "id": "notif_vendedor3",
+            "title": "Vendedor confirmado",
+            "description": "KinelaS estará en Tradeitto 2.",
+            "isoTime": "2026-11-23T21:50:00"
+        },
+        {
+            "id": "notif_entradas50",
+            "title": "¡El 50% vendido!",
+            "description": "Ya se ha vendido la mitad de las entradas normales para Tradeitto 2. ¿Ya tienes la tuya?",
+            "isoTime": "2026-11-23T21:55:00"
+        },
+        {
             "id": "notif_contentcreator",
             "title": "¿Eres creador de contenido?",
             "description": "¿Y vas a venir a Tradeitto 2? Entonces, mándanos un MD por Instagram. :)",
