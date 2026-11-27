@@ -37,6 +37,12 @@
             "isoTime": "2026-11-24T21:15:00"
         },
         {
+            "id": "notif_21dias",
+            "title": "Faltan 21 días",
+            "description": "Quedan 21 días para Tradeitto 2. La cuenta atrás ya ha empezado y cada vez queda menos para volver a vernos. ¡Ve preparando tus álbumes, que cada vez queda menos!",
+            "isoTime": "2026-11-28T10:30:00"
+        },
+        {
             "id": "notif_2sem",
             "title": "¡Faltan 2 semanas!",
             "description": "Ya queda muy poco, solo 14 días más para que Tradeitto 2 empiece.",
